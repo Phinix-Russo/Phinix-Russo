@@ -92,13 +92,13 @@
 ---
 
 <p>
-  <img align="left" src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/path-to-your-image/image.png](https://camo.githubusercontent.com/3784ffa128ec622408a751ceebf495470af82963002211ac9ded7576c582cfa0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d44484b2d546e267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374)" alt="Top Languages" />
+  <img align="left" src="https://camo.githubusercontent.com/3784ffa128ec622408a751ceebf495470af82963002211ac9ded7576c582cfa0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d44484b2d546e267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374" alt="Top Languages" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phinix-russo&show_icons=true&locale=en&theme=dark" alt="phinix-russo" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phinix-russo&show_icons=true&locale=en&theme=radical&bg_color=0D1117&hide_border=true&text_color=00FF00&title_color=00FF00" alt="phinix-russo" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phinix-russo&theme=radical&background=0D1117&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00" alt="phinix-russo" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phinix-russo&theme=dark" alt="phinix-russo" />
 </p>
