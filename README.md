@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm PphinixX</h1>
-<h3 align="center">Tools Coder</>, from Tunisia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phinix-russo&label=Profile%20views&color=0e75b6&style=flat" alt="phinix-russo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phinix-russo" alt="phinix-russo" /></a> </p>
+<h1 align="center" style="color:#00ff00;">Hi 👋, I'm PphinixX</h1> <h3 align="center" style="color:#00ff00;">Tools Coder from Tunisia</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=phinix-russo&label=Profile%20views&color=brightgreen&style=flat" alt="phinix-russo" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=phinix-russo&row=1&column=6&no-frame=true&theme=darkhub" alt="phinix-russo" /> </a> </p>
 
 - 🛠️ I’m currently working on **Discord Tools**
 
