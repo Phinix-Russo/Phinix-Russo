@@ -1,36 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animated Headings</title>
-    <style>
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(-20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-        h1, h3 {
-            animation: fadeIn 1s ease-in-out forwards;
-        }
-        h1 {
-            animation-delay: 0.5s; /* Delay for the h1 */
-        }
-        h3 {
-            animation-delay: 1s; /* Delay for the h3 */
-        }
-    </style>
-</head>
-<body>
-    <h1 align="center" style="color:#00ff00;">Hi 👋, I'm PphinixX</h1>
-    <h3 align="center" style="color:#00ff00;">Tools Coder from Tunisia</h3>
-</body>
-</html>
+<h1 align="center" style="color:#00ff00; animation: fadeIn 1s ease-in-out;">Hi 👋, I'm PphinixX</h1>
+<h3 align="center" style="color:#00ff00; animation: fadeIn 1s ease-in-out; animation-delay: 0.5s;">Tools Coder from Tunisia</h3>
+
+<style>
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+</style>
+
 
 
 <p align="center">
