@@ -31,7 +31,7 @@
 
 <h3 align="center" style="color:#00ff00;">Connect with me:</h3>
 <p align="center">
-  <a href="https://fb.com/phinix.russo" target="_blank">
+  <a href="https://www.facebook.com/Phinix.Russo.Tn" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phinix russo" height="30" width="40" />
   </a>
   <a href="https://instagram.com/phinix.russo.tn" target="_blank">
