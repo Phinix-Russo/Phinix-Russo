@@ -1,18 +1,10 @@
-<h1 align="center" style="color:#00ff00; animation: fadeIn 1s ease-in-out;">Hi 👋, I'm PphinixX</h1>
-<h3 align="center" style="color:#00ff00; animation: fadeIn 1s ease-in-out; animation-delay: 0.5s;">Tools Coder from Tunisia</h3>
+<h1 align="center" style="color:#00ff00;">Hi 👋, I'm PphinixX</h1>
+<h3 align="center" style="color:#00ff00;">Tools Coder from Tunisia</h3>
 
-<style>
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-        transform: translateY(-20px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-</style>
+<p align="center">
+  Welcome to my GitHub profile! Here you'll find my projects and tools.
+</p>
+
 
 
 
