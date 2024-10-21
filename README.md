@@ -22,8 +22,8 @@
 
 ---
 
-<h3 align="left" style="color:#00ff00;">Connect with me:</h3>
-<p align="left">
+<h3 align="center" style="color:#00ff00;">Connect with me:</h3>
+<p align="center">
   <a href="https://fb.com/phinix.russo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phinix russo" height="30" width="40" />
   </a>
@@ -37,6 +37,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3qng3798pG" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
