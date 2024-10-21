@@ -23,7 +23,7 @@
 - 🛠️ I’m currently working on **Discord Tools**
 - ⚙️ I’m currently learning **C++**
 - 👨‍💻 Check out all of my projects on [My Discord Server](https://discord.gg/3qng3798pG)
-- 🔗 Visit my personal website: [phinix-russo.github.io/phinix.website](https://phinix-russo.github.io/phinix.website)
+- 🔗 Visit my personal website: [Phinix Website](https://phinix-russo.github.io/phinix.website)
 - 🔎 Ask me about **Coding, Carding, DDoS, Phishing, Logging, Spamming**
 - 📌 Reach me on Discord: **phinix_russo**
 
@@ -37,7 +37,7 @@
   <a href="https://instagram.com/phinix.russo.tn" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phinix.russo.tn" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/pphinixx" target="_blank">
+  <a href="https://www.youtube.com/@PphinixX" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pphinixx" height="30" width="40" />
   </a>
   <a href="https://discord.gg/3qng3798pG" target="_blank">
