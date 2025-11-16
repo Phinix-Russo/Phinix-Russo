@@ -22,7 +22,7 @@
 
 - 🛠️ I’m currently working on **Discord Tools**
 - ⚙️ I’m currently learning **C++**
-- 👨‍💻 Check out all of my projects on [My Discord Server](https://discord.gg/3qng3798pG)
+- 👨‍💻 Check out all of my projects on [My Discord Server](https://discord.gg/5stGdV9Y4j)
 - 🔗 Visit my personal website: [Phinix Website](https://phinix-russo.github.io/phinix.website)
 - 🔎 Ask me about **Coding, Carding, DDoS, Phishing, Logging, Spamming**
 - 📌 Reach me on Discord: **phinix_russo**
